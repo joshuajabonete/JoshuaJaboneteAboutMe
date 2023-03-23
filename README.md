@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 - [Website V1](https://joshuajaboneteportfolio.vercel.app/)
-- [Website V2](https://junjoshuaaboutme.vercel.app/)
+- [Website V2](https://joshuajaboneteaboutme.vercel.app/)
 
 ## 👤 Author
 <p align="left">
