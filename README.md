@@ -1,6 +1,6 @@
 # 📖 Joshua Jabonete About Me
 
-<img src="assets/img/banner.gif">
+<img src="https://i.ibb.co/xjqgj3W/Website.png">
 
 ## 🚀 Live Demo
 - [Website V1](https://joshuajaboneteportfolio.vercel.app/)
